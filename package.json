@@ -1,0 +1,20 @@
+{
+  "name": "sweettype",
+  "version": "1.0.0",
+  "description": "web platform inspired by 1990s JDM tuner culture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flex814/SweetType.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flex814/SweetType/issues"
+  },
+  "homepage": "https://github.com/Flex814/SweetType#readme"
+}
