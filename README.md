@@ -58,8 +58,8 @@ Sweet Type is a full-stack web application designed to bring the look and feel o
 
 1. **Clone the repository:**
 ```
-git clone https://github.com/Flex814/jdm-tuner-shop.git
-cd jdm-tuner-shop
+git clone https://github.com/Flex814/SweetType.git
+cd SweetType
 ```
 2. **Frontend Setup:**
 ```
@@ -99,7 +99,7 @@ POST /api/orders: Create a new order.
 
 8. **Project Structure**
 ```
-jdm-tuner-shop/
+SweetType/
 │
 ├── frontend/          # React.js frontend
 │   ├── public/        # Public assets
